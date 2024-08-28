@@ -63,7 +63,7 @@ export const Banner = () => {
                     </span>
                     </h3>
                   <p></p>
-                  <a style={{textDecoration:'none'}} href='https://www.linkedin.com/in/aiswariya-dash-22b276228/'>
+                  <a style={{textDecoration:'none'}} href='https://drive.google.com/file/d/10NHVFL9vEUuNnolevqg0BKpXkcwl3myJ/view?usp=drive_link'>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> </a>
               </div>}
             </TrackVisibility>
