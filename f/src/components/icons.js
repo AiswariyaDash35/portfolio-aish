@@ -190,14 +190,14 @@ export const tools = [
     bg: "rgba(255, 165, 0)",
     content: "Postman"
   },
-  {
-    id: 5,
-    src: "https://res.cloudinary.com/dwohsn29d/image/upload/v1696745243/Portfolio/images/z2izcqwqrv7opwxpxkro.png",
-    library: "cg",
-    style: "shadow-gray-300 pt-10",
-    bg: "rgba(255, 255, 255, 0.9)",
-    content: "Vercel"
-  },
+  // {
+  //   id: 5,
+  //   src: "https://res.cloudinary.com/dwohsn29d/image/upload/v1696745243/Portfolio/images/z2izcqwqrv7opwxpxkro.png",
+  //   library: "cg",
+  //   style: "shadow-gray-300 pt-10",
+  //   bg: "rgba(255, 255, 255, 0.9)",
+  //   content: "Vercel"
+  // },
   // {
   //   id: 6,
   //   src: "https://res.cloudinary.com/dwohsn29d/image/upload/v1696745238/Portfolio/images/casxkkl2asrvgu2wdcyg.png",
